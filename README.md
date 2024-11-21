@@ -50,5 +50,5 @@ Before building and running Heptabond, ensure you have the following installed o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heptabond.git
+   git clone https://github.com/heptabond/heptabond.git
    cd heptabond
